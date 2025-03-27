@@ -4,7 +4,6 @@
 		<defName>Ant_Antenna</defName>
 		<label>Ant Antenna</label>
 		<displayCategory>Cosmetic</displayCategory>
-        <endogeneCategory>Headbone</endogeneCategory>
 		<description>A Pair of Antenna Commonly found on Ants</description>
 		<iconPath>Ant_Antennas/Ant_Antenna_north</iconPath>
 		<selectionWeight>0</selectionWeight>
