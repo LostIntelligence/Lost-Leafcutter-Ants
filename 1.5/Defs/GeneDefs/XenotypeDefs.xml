@@ -7,7 +7,23 @@
         <iconPath>UI/Icons/Genes/Gene_TailSmooth</iconPath>
         <inheritable>true</inheritable>
         <genes>
-            
+            <li>MeleeDamage_Strong</li>
+			<li>Robust</li>
+			<li>Sterile</li>
+			<li>Beauty_Ugly</li>
+			<li>Body_Standard</li>
+			<li>Body_Thin</li>
+			<li>Body_Hulk</li>
+			<li>AptitudeStrong_Melee</li>
+			<li>AptitudeStrong_Construction</li>
+			<li>AptitudeStrong_Mining</li>
+			<li>AptitudeTerrible_Cooking</li>
+			<li>AptitudeRemarkable_Plants</li>
+			<li>AptitudeTerrible_Animals</li>
+			<li>AptitudeTerrible_Crafting</li>
+			<li>AptitudeTerrible_Artistic</li>
+			<li>AptitudeStrong_Social</li>
+			<li>AptitudePoor_Intellectual</li>
         </genes>
     </XenotypeDef>
 </Defs>
