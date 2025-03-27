@@ -3,7 +3,7 @@
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/FactionDef[@Name="PirateBandBase"]/xenotypeSet/xenotypeChances</xpath>
         <value>
-            <LeafCutterAnt>0.2</LeafCutterAnt>
+            <LC_LeafCutterAnt>0.2</LC_LeafCutterAnt>
         </value>
     </Operation>
 </Patch>

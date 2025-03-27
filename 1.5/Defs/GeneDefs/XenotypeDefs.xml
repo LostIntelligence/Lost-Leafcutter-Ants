@@ -2,9 +2,9 @@
 <Defs>
     <XenotypeDef Name="LC_LeafCutterAnt">
         <defName>LC_LeafCutterAnt</defName>
-        <label>Catgirl</label>
+        <label>Leafcutter Ant</label>
         <description>A fusion of humans and leaf-cutter ants, originally created by governments as a highly coordinated strike force due to the massive strength imparted by ant DNA, but more suited to plant-related tasks.</description>
-        <iconPath>UI/Icons/Genes/Gene_TailSmooth</iconPath>
+        <iconPath>UI/AntXeno</iconPath>
         <inheritable>true</inheritable>
         <genes>
             <li>MeleeDamage_Strong</li>
@@ -14,6 +14,7 @@
 			<li>Body_Standard</li>
 			<li>Body_Thin</li>
 			<li>Body_Hulk</li>
+			<li>StrongStomach</li>
 			<li>AptitudeStrong_Melee</li>
 			<li>AptitudeStrong_Construction</li>
 			<li>AptitudeStrong_Mining</li>
@@ -22,8 +23,12 @@
 			<li>AptitudeTerrible_Animals</li>
 			<li>AptitudeTerrible_Crafting</li>
 			<li>AptitudeTerrible_Artistic</li>
+			<li>AptitudePoor_Medicine</li>
 			<li>AptitudeStrong_Social</li>
 			<li>AptitudePoor_Intellectual</li>
+            <li>Ant_Antenna</li>
+            <li>Ant_Mandible</li>
+            <li>Skin_DeepYellow</li>
         </genes>
     </XenotypeDef>
 </Defs>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneDef>
+		<defName>Ant_Antenna</defName>
+		<label>Ant Antenna</label>
+		<displayCategory>Cosmetic</displayCategory>
+        <endogeneCategory>Headbone</endogeneCategory>
+		<description>A Pair of Antenna Commonly found on Ants</description>
+		<iconPath>Ant_Antennas/Ant_Antenna_north</iconPath>
+		<selectionWeight>0</selectionWeight>
+		<renderNodeProperties>
+			<li>
+				<nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+				<workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+				<texPath>Ant_Antennas/Ant_Antenna</texPath>
+				<useSkinShader>true</useSkinShader>
+				<useRottenColor>true</useRottenColor>
+				<colorType>Skin</colorType>
+				<parentTagDef>Head</parentTagDef>
+				<rotDrawMode>Fresh, Rotting</rotDrawMode>
+				<drawData>
+					<defaultData>
+						<layer>80</layer>
+					</defaultData>
+					<dataNorth>
+						<layer>10</layer>
+					</dataNorth>
+				</drawData>
+			</li>
+		</renderNodeProperties>
+	</GeneDef>
+
+	<GeneDef>
+		<defName>Ant_Mandible</defName>
+		<label>Ant mandible</label>
+		<description>Ant mandibles that help with cutting and other work</description>
+		<iconPath>Ant_Mandible/Ant_Mandible_south</iconPath>
+		<selectionWeight>0</selectionWeight>
+		<renderNodeProperties>
+			<li>
+				<nodeClass>PawnRenderNode_AttachmentHead</nodeClass>
+				<workerClass>PawnRenderNodeWorker_FlipWhenCrawling</workerClass>
+				<parentTagDef>Head</parentTagDef>
+				<colorType>Skin</colorType>
+				<texPath>Ant_Mandible/Ant_Mandible</texPath>
+				<visibleFacing>
+					<li>East</li>
+					<li>South</li>
+					<li>West</li>
+				</visibleFacing>
+				<drawData>
+					<defaultData>
+						<layer>80</layer>
+					</defaultData>
+				</drawData>
+			</li>
+		</renderNodeProperties>
+	</GeneDef>
+</Defs>

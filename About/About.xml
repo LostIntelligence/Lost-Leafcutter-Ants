@@ -5,7 +5,7 @@
 	<modVersion>1.0.0</modVersion>
 	<packageId>lc.leafcutter.ant</packageId>
 	<description>
-		Adds a new Xenotype based on the Leafcutter Ant. Strong in Plantwork and with high social cohesion.
+		Adds a new Xenotype based on the Leafcutter Ant. Strong in Plantwork and with high social cohesion. Patches it Directly into the normal Pirate Faction.
 	</description>
 	<supportedVersions>
 		<li>1.5</li>
