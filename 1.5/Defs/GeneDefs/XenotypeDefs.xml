@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <XenotypeDef Name="LC_LeafCutterAnt">
+        <defName>LC_LeafCutterAnt</defName>
+        <label>Catgirl</label>
+        <description>A fusion of humans and leaf-cutter ants, originally created by governments as a highly coordinated strike force due to the massive strength imparted by ant DNA, but more suited to plant-related tasks.</description>
+        <iconPath>UI/Icons/Genes/Gene_TailSmooth</iconPath>
+        <inheritable>true</inheritable>
+        <genes>
+            
+        </genes>
+    </XenotypeDef>
+</Defs>
